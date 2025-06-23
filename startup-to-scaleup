@@ -26,19 +26,14 @@ def calculate_rd_credits(development_hours, qualifying_expenses):
 | Audit Risk | High | Low |
 | Tax Savings | Missed | Maximized |
 
-**Key Resources**:  
+Key Resources:  
 - [IRS R&D Credit Guide](https://www.irs.gov/credits-deductions/businesses/research-tax-credit)  
 - [Tulpar Tax Compliance Checklist](https://tulpartax.com/)  
 
 > "The hardest thing to debug is tax code you didn't know existed" - Anonymous Founder  
 
 [![Tulpar Tax Logo](https://tulpartax.com/logo.png)](https://tulpartax.com)  
-*Need tax help? [Schedule a consultation](https://tulpartax.com/contact-us)*
+Need tax help? [Schedule a consultation](https://tulpartax.com/contact-us)
 ```
 ````
 
-
-Would you like me to:
-1. Add more "code-like" elements (e.g., pseudo-tax formulas)?
-2. Include a YAML front matter for Jekyll sites?
-3. Create a companion repository with tax checklist files?
